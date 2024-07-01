@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Farabi</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"</h1>
+<h3 align="center">Software engineering student from Kazakhstan 🇰🇿</h3>
+
+- 🌱 I’m currently learning **UIKit, Django**
+
+<a href="https://www.codewars.com/users/F4rab1"><br/><img src="https://www.codewars.com/users/F4rab1/badges/large"></a>
 
 <!--
 **F4rab1/F4rab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

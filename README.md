@@ -6,6 +6,9 @@
 
 <a href="https://www.codewars.com/users/F4rab1"><br/><img src="https://www.codewars.com/users/F4rab1/badges/large"></a>
 
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=F4rab1&theme=nightowl&hide_border=false)<br/>
+
 <!--
 **F4rab1/F4rab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

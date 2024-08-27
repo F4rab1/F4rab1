@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning **UIKit, Django, python, c++, swift**
 
-<a href="https://www.codewars.com/users/F4rab1"><br/><img src="https://www.codewars.com/users/F4rab1/badges/large"></a>
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/F4rab1)
+[![Codewars](https://www.codewars.com/users/F4rab1/badges/micro)](https://www.codewars.com/users/F4rab1)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=F4rab1&theme=nightowl&hide_border=false)

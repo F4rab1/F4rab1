@@ -13,6 +13,7 @@
 <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="Postgres" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/swift/F05138" alt="Firebase" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/uikit/3670A0" alt="Firebase" height="30" width="30"/>
 
 

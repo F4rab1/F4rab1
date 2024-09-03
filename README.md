@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"</h1>
 <h3 align="center">Software engineering student from Kazakhstan 🇰🇿</h3>
 
-- 🌱 I’m currently learning **UIKit, Django, python, c++, swift**
+- 🌱 I’m currently learning **UIKit, Django, DRF, python, c++, swift**
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/F4rab1)

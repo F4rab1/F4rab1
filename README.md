@@ -3,6 +3,7 @@
 <h3 align="center">Software engineering student from Kazakhstan 🇰🇿</h3>
 
 - 🌱 I’m currently learning **Swift, UIKit, Python, Django, DRF, PostgreSQL, and C++**
+- 📫 How to reach me: **farabi.issa@gmail.com**
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/F4rab1)

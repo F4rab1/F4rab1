@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Farabi</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"</h1>
-<h3 align="center">Software engineering student from Kazakhstan 🇰🇿</h3>
+<h3 align="center">Django backend and UIKit iOS developer from Kazakhstan 🇰🇿</h3>
 
 - 🌱 I’m currently learning **Swift, UIKit, Python, Django, DRF, PostgreSQL, and C++**
 - 📫 How to reach me: **farabi.issa@gmail.com**

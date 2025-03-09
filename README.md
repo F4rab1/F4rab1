@@ -9,7 +9,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/F4rab1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f4ralon) 
 [![Codewars](https://www.codewars.com/users/F4rab1/badges/micro)](https://www.codewars.com/users/F4rab1)
-![Visitor Count](https://komarev.com/ghpvc/?username=F4rab1&color=blue&style=flat)
+[![Leetcode](https://img.shields.io/badge/Leetcode-007ACC?logo=leetcode&logoColor=white)](https://leetcode.com/u/f4rab1/)
 
 ## 💻 Tech Stack:
 <img src="https://cdn.simpleicons.org/python/3670A0" alt="Python" height="30" width="30"/> <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="30" width="30"/>

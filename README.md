@@ -21,6 +21,7 @@
 <img src="https://cdn.simpleicons.org/uikit/3670A0" alt="Firebase" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/jupyter" alt="Firebase" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/html5" alt="HTML5" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/css" alt="HTML5" height="30" width="30"/>
 
 
 ## 📊 GitHub Stats:

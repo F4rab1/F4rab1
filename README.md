@@ -24,6 +24,7 @@
 <img src="https://cdn.simpleicons.org/css" alt="HTML5" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/javascript" alt="HTML5" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/spring" alt="HTML5" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/mongodb" alt="HTML5" height="30" width="30"/>
 
 
 ## 📊 GitHub Stats:

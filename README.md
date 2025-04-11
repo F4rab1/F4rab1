@@ -13,7 +13,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-FF6600?logo=codeforces&logoColor=white)](https://codeforces.com/profile/F4rab1)
 
 ## 💻 Tech Stack:
-<img src="https://cdn.simpleicons.org/python/3670A0" alt="Python" height="30" width="30"/> <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/github" alt="github" height="30" width="30"/> <img src="https://cdn.simpleicons.org/python/3670A0" alt="Python" height="30" width="30"/> <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="Postgres" height="30" width="30"/>
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="30" width="30"/>

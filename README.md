@@ -30,7 +30,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=F4rab1&theme=nightowl&hide_border=false)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=F4rab1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **F4rab1/F4rab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

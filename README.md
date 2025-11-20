@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"</h1>
 <h3 align="center">Java Backend and UIKit iOS developer from Kazakhstan 🇰🇿</h3>
 
-- 🌱 I’m currently learning **Java and Spring Boot, Cloud, REST API**
+- 🌱 I’m currently learning **Java, Spring Boot, Cloud, JSON Web Token REST API**
 - 📫 How to reach me: **farabi.issa@gmail.com**
 
 ## 🌐 Socials:

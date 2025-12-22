@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Farabi</a>
+<h1 align="center">Hi there, I'm Farabi Issa</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"</h1>
 <h3 align="center">Java Backend and UIKit iOS developer from Kazakhstan 🇰🇿</h3>
 

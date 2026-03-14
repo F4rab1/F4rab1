@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"</h1>
 <h3 align="center">Java Backend and UIKit iOS developer from Kazakhstan 🇰🇿</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot, Stripe Payment, Deployment, Data Science**
+- 🌱 I’m currently learning **Java, Spring Boot, Stripe Payment, Deployment, SQL, NoSQL, Data Science**
 - 📫 How to reach me: **farabi.issa@gmail.com**
 
 ## 🌐 Socials:

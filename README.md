@@ -13,20 +13,25 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-FF6600?logo=codeforces&logoColor=white)](https://codeforces.com/profile/F4rab1)
 
 ## 💻 Tech Stack:
-<img src="https://cdn.simpleicons.org/git" alt="github" height="30" width="30"/> <img src="https://cdn.simpleicons.org/github" alt="github" height="30" width="30"/> <img src="https://cdn.simpleicons.org/python/3670A0" alt="Python" height="30" width="30"/> <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/django/092E20" alt="Django" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="Postgres" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/swift/F05138" alt="Firebase" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/uikit/3670A0" alt="Firebase" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/jupyter" alt="Firebase" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/html5" alt="HTML5" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/css" alt="HTML5" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/javascript" alt="HTML5" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/spring" alt="HTML5" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/mongodb" alt="HTML5" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/postman" alt="HTML5" height="30" width="30"/>
-<img src="https://cdn.simpleicons.org/stripe" alt="HTML5" height="30" width="30"/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git" height="30"/>
+  <img src="https://cdn.simpleicons.org/github" height="30"/>
+  <img src="https://cdn.simpleicons.org/python/3670A0" height="30"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30"/>
+  <img src="https://cdn.simpleicons.org/django/092E20" height="30"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30"/>
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="30"/>
+  <img src="https://cdn.simpleicons.org/uikit/3670A0" height="30"/>
+  <img src="https://cdn.simpleicons.org/jupyter" height="30"/>
+  <img src="https://cdn.simpleicons.org/html5" height="30"/>
+  <img src="https://cdn.simpleicons.org/css" height="30"/>
+  <img src="https://cdn.simpleicons.org/javascript" height="30"/>
+  <img src="https://cdn.simpleicons.org/spring" height="30"/>
+  <img src="https://cdn.simpleicons.org/mongodb" height="30"/>
+  <img src="https://cdn.simpleicons.org/postman" height="30"/>
+  <img src="https://cdn.simpleicons.org/stripe" height="30"/>
+</p>
 
 
 ## 📊 GitHub Stats:
